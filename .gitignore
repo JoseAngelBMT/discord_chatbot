@@ -1,8 +1,10 @@
+__pycache__/
 *.log
 *.env
 data/
 src/model/gpt2-finetuned
 
+.idea/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
